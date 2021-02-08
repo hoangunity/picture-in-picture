@@ -7,3 +7,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen
 /** Google Fonts **/
 https://fonts.google.com/
 --/** On top of the CSS file: @import url("https://fonts.googleapis.com/css2?family=Barlow"); **/
+
+/** Tracking ECMAScript Proposals **/
+https://github.com/tc39/proposals
